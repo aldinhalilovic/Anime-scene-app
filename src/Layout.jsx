@@ -70,7 +70,8 @@ export default function AppShellDemo() {
               />
             </MediaQuery>
             <Link to="/"><img src={Logo} alt="" className="w-9 h-9 lg:ml-3 sm:ml-5 cursor-pointer" /></Link>
-            <Link to="/"><h1 className="text-white text-3xl font-bold pl-3 cursor-pointer">Fuji</h1></Link>
+            <Link to="/"><h1 className="text-white text-3xl font-bold pl-3 cursor-pointer">Studio Ghibli Colleciton
+</h1></Link>
           </div>
         </Header>
       }

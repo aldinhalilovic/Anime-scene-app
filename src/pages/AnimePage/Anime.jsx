@@ -149,6 +149,7 @@ function Anime() {
               </svg>
             </div>
             <input
+            autocomplete="off"
               type="search"
               id="search"
               className="block h-10 pl-10 w-full text-sm text-gray-900 border-white text-white bg-dark rounded-lg border border-gray-300"
