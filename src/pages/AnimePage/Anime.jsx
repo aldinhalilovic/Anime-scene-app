@@ -62,7 +62,6 @@ function Anime() {
     } else {
       setPromena(true);
     }
-    console.log(data);
   }
 
   useEffect(() => {

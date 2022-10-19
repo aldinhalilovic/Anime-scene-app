@@ -13,7 +13,6 @@ export default function FavPage() {
     return e.type === "manga";
   });
 
-  console.log(favItems);
 
 
   return (
